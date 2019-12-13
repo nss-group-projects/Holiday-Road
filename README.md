@@ -121,4 +121,32 @@ Once you have the coordinate of a place, you can get directions to it. The first
 https://graphhopper.com/api/1/route?point=starting_latitude,starting_longitude&point=destination_latitude,destination_longitude&vehicle=car&locale=us&instructions=true&calc_points=true&key=your_api_key"
 
 
+## Personas
 
+### Anna
+
+![](./personas/persona-anna.png)
+
+### Betsy
+
+![](./personas/persona-betsy.png)
+
+### Brittany
+
+![](./personas/persona-brittany.png)
+
+### Caroline
+
+![](./personas/persona-caroline.png)
+
+## Charles
+
+![](./personas/persona-charles.png)
+
+### Jake
+
+![](./personas/persona-jake.png)
+
+### Peter
+
+![](./personas/persona-peter.png)
