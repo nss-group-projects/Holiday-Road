@@ -64,11 +64,11 @@ https://openweathermap.org/api
 
 ## Bizarre Destination
 
-http://bizarreries.nss.team
+http://holidayroad.nss.team/bizarreries
 
 ## Eateries Destination
 
-http://eateries.nss.team
+http://holidayroad.nss.team/eateries
 
 ## Graphhopper API
 
