@@ -14,6 +14,16 @@ To accomplish maximum learning, the following requirement is placed on the team,
 
 Only when you feel you understand all of the code, you may then complete testing of the feature and provide approval for merging.
 
+### Settings
+
+After each teammate clone the repository, each must perform the following steps.
+
+1. In the `scripts` directory, you will see a file named `.Settings.js` (note the dot at the beginning).
+1. Copy that file with `cp .Settings.js Settings.js`.
+1. Register an API key for the APIs below that need it.
+1. Copy your key into the appropriate place in the `Settings.js` file.
+1. The team will need to figure out how to import that object into the data provider modules and use it for the `fetch()` calls that need to be performed.
+
 ## Feature List
 
 ### Building the Itinerary
