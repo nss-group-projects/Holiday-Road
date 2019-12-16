@@ -27,7 +27,7 @@ Only when you feel you understand all of the code, you may then complete testing
 ### Itinerary Details
 
 * In the **Itinerary Preview** section, there should be a button labeled _Save Itinerary_. It should be disabled by default.
-* When the user has selected a park, and the name of the park has been added to the **Itinerary Preview** section, query the Open Weather API and display the 16 day forecast for that location. This will allow the user to see if they want to make the trip soon.
+* When the user has selected a park, and the name of the park has been added to the **Itinerary Preview** section, query the Open Weather API and display the 5 day forecast for that location. This will allow the user to see if they want to make the trip soon.
 * When the user adds any item to the **Itinerary Preview**, there should be a _Details_ button next to the name of the item.
 
 * When the user clicks on any detail button for an itinerary item, a dialog box should be presented to the user with more information about that item _(description, address, etc...)_.
