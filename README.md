@@ -2,6 +2,18 @@
 
 You and your teammates have been contracted by the National Parks Service to build an application that will allow people to build itineraries for their trips to the beautiful national parks that they maintain. The starting point of each trip will be Nashville, TN, but the destination will a national park selected by the user.
 
+## Getting Started
+
+This is going to be your first full, professional Sprint. A Sprint is part of the [Scrum Framework](https://en.wikipedia.org/wiki/Scrum_%28software_development%29) for agile development. You will be doing daily scrum stand-ups, where you provide a concise status update on your own work. You will be taking part in a sprint review where you demonstrate the work you have completed. You will be taking part in a retrospective, where the team reflects on the work done, the team dynamics, and discuss how to improve in the future.
+
+### Code Review
+
+During this sprint, the focus will be on learning, much more than doing. We estimate that most teams could get this project done in 2-3 days. We are giving you 5.
+
+To accomplish maximum learning, the following requirement is placed on the team, and will be monitored by your team lead. When a teammate submits a PR, and you are ready to review it, then you and the submitter must sit together and review all of the code that was written. Also, if any other teammates would like to review the code, then you must include them on the review.
+
+Only when you feel you understand all of the code, you may then complete testing of the feature and provide approval for merging.
+
 ## Feature List
 
 ### Building the Itinerary
