@@ -70,6 +70,16 @@ Add a button to a saved itinerary labeled _Events_. When the user clicks the but
 * description
 * feeInfo
 
+### Stretch Goal: Search
+
+Add a **`UserSearch`** component to your application where the user can type in any search string, and you would find anything that matches in...
+
+1. Your local iternary API
+1. National Park Service API
+1. Bizarreries API
+1. Eateries API
+
+Display all matching items in a **`SearchResults`** component. Each item in the search results would have a button next to it that would allow the user to add that item to their itinerary preview.
 
 ## National Park Service API
 
