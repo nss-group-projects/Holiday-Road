@@ -152,6 +152,27 @@ Once you have the coordinate of a place, you can get directions to it. The first
 
 https://graphhopper.com/api/1/route?point=starting_latitude,starting_longitude&point=destination_latitude,destination_longitude&vehicle=car&locale=us&instructions=true&calc_points=true&key=your_api_key"
 
+## Tips For A Good Usable Website
+1. Use acceptable conventions
+   * Logo positioned at top left
+   * Navigation across the top or down the left side
+   * Copyright in the footer.
+2. Visual hierarchy
+   * Most important information is the most prominent
+3. Break pages up into defined sections
+   * Logically related content should be related visually
+4. That which is clickable should be obviously clickable.
+5. Eliminate distractions
+   * Use only two typefaces
+   * Limit color pallet (3 colors with black and white)
+   * Use a grid
+6. Support scanning (users don't read)
+   * Use plenty of headings
+   * Short paragraphs
+   * Bulleted lists
+   * Left aligned text
+7. Strive for consistency.
+8. Use semantic and valid HTML: validator at [https://validator.w3.org/](https://validator.w3.org/).
 
 ## Personas
 
